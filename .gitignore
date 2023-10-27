@@ -1,0 +1,5 @@
+# ignore pdf
+*.pdf
+
+# ignore .ipynb
+*.ipynb
