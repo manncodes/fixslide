@@ -20,11 +20,11 @@ You can install the necessary dependencies using `pip`. For example:
 pip install PyMuPDF typer tqdm
 ```
 <!-- Usage
-To use the PDF Slide Extractor, open your terminal and run the script with the following command: -->
+To use the script, open your terminal and run the script with the following command: -->
 
 ## Usage
 
-To use the PDF Slide Extractor, open your terminal and run the script with the following command:
+To use the script, open your terminal and run the script with the following command:
 
 ```bash
 python convert.py <pdf_path> --save-name <output_pdf_name>
